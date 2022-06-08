@@ -11142,32 +11142,38 @@ Nbd2 b6 9. b3 a5 10. Bb2 Ba6 *
 1. d4 Nf6 2. c4 e6 3. Nf3 *
 
 [ECO "E10"]
-[Opening "Blumenfeld counter-gambit"]
+[Opening "Queen's pawn game"]
+[Variation "Blumenfeld counter-gambit"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 *
 
 [ECO "E10"]
-[Opening "Blumenfeld counter-gambit accepted"]
+[Opening "Queen's pawn game"]
+[Variation "Blumenfeld counter-gambit accepted"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. dxe6 fxe6 6. cxb5 d5 *
 
 [ECO "E10"]
-[Opening "Blumenfeld counter-gambit, Dus-Chotimursky variation"]
+[Opening "Queen's pawn game"]
+[Variation "Blumenfeld counter-gambit, Dus-Chotimursky"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. Bg5 *
 
 [ECO "E10"]
-[Opening "Blumenfeld counter-gambit, Spielmann variation"]
+[Opening "Queen's pawn game"]
+[Variation "Blumenfeld counter-gambit, Spielmann"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. Bg5 exd5 6. cxd5 h6 *
 
 [ECO "E10"]
-[Opening "Dzindzikhashvili defence"]
+[Opening "Queen's pawn game"]
+[Variation "Dzindzikhashvili"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 a6 *
 
 [ECO "E10"]
-[Opening "Doery defence"]
+[Opening "Queen's pawn game"]
+[Variation "Doery"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 Ne4 *
 
