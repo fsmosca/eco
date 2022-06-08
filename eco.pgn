@@ -1281,7 +1281,7 @@ Qxd4 d6 9. Rd1 a6 10. b3 Nbd7 *
 1. d4 Nf6 2. Nf3 Ne4 *
 
 [ECO "A47"]
-[Opening "Queen's Indian defence"]
+[Opening "Queen's Indian"]
 
 1. d4 Nf6 2. Nf3 b6 *
 
@@ -11008,14 +11008,14 @@ d5 *
 8. Be3 Nfd7 9. Be2 Nb6 10. Qd3 Nc6 11. O-O-O *
 
 [ECO "D99"]
-[Opening "Gruenfeld defence"]
+[Opening "Gruenfeld"]
 [Variation "Smyslov, main line"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4 
 8. Be3 Nfd7 9. Qb3 *
 
 [ECO "D99"]
-[Opening "Gruenfeld defence"]
+[Opening "Gruenfeld"]
 [Variation "Smyslov, Yugoslav variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4 
@@ -11192,7 +11192,7 @@ Nbd2 b6 9. b3 a5 10. Bb2 Ba6 *
 8. Nc3 Ne4 9. Qc2 Nxc3 10. Ng5 *
 
 [ECO "E12"]
-[Opening "Queen's Indian defence"]
+[Opening "Queen's Indian"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 *
 
@@ -11331,7 +11331,7 @@ Bb2 cxd4 9. Nxd4 *
 Qc2 Nxc3 9. Qxc3 *
 
 [ECO "E20"]
-[Opening "Nimzo-Indian defence"]
+[Opening "Nimzo-Indian"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 *
 
@@ -11787,7 +11787,8 @@ a3 Bxc3 9. bxc3 dxc4 10. Bxc4 *
 1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 *
 
 [ECO "E61"]
-[Opening "King's Indian defence, 3.Nc3"]
+[Opening "King's Indian"]
+[Variation "3.Nc3"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 *
 
