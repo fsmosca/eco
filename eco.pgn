@@ -9222,12 +9222,13 @@ c3 d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 *
 1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 *
 
 [ECO "D10"]
-[Opening "QGD Slav defence"]
+[Opening "QGD Slav"]
 
 1. d4 d5 2. c4 c6 *
 
 [ECO "D10"]
-[Opening "QGD Slav defence, Alekhine variation"]
+[Opening "QGD Slav"]
+[Variation "Alekhine"]
 
 1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e4 *
 
@@ -9238,8 +9239,8 @@ c3 d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 *
 1. d4 d5 2. c4 c6 3. Nc3 e5 *
 
 [ECO "D10"]
-[Opening "QGD Slav defence"]
-[Variation "exchange variation"]
+[Opening "QGD Slav"]
+[Variation "Exchange"]
 
 1. d4 d5 2. c4 c6 3. cxd5 *
 
