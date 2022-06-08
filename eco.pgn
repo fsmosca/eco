@@ -6077,38 +6077,42 @@ Nd2 *
 O-O *
 
 [ECO "C40"]
-[Opening "King's knight opening"]
+[Opening "King's knight"]
 
 1. e4 e5 2. Nf3 *
 
 [ECO "C40"]
-[Opening "Gunderam defence"]
+[Opening "King's knight"]
+[Variation "Gunderam"]
 
 1. e4 e5 2. Nf3 Qe7 *
 
 [ECO "C40"]
-[Opening "Greco defence"]
+[Opening "King's knight"]
+[Variation "Greco"]
 
 1. e4 e5 2. Nf3 Qf6 *
 
 [ECO "C40"]
-[Opening "Damiano's defence"]
+[Opening "King's knight"]
+[Variation "Damiano"]
 
 1. e4 e5 2. Nf3 f6 *
 
 [ECO "C40"]
-[Opening "QP counter-gambit (elephant gambit)"]
+[Opening "King's knight"]
+[Variation "QP counter-gambit (elephant gambit)"]
 
 1. e4 e5 2. Nf3 d5 *
 
 [ECO "C40"]
-[Opening "QP counter-gambit"]
+[Opening "King's knight"]
 [Variation "Maroczy gambit"]
 
 1. e4 e5 2. Nf3 d5 3. exd5 Bd6 *
 
 [ECO "C40"]
-[Opening "Latvian counter-gambit"]
+[Opening "Latvian"]
 
 1. e4 e5 2. Nf3 f5 *
 
@@ -6125,7 +6129,8 @@ O-O *
 1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 *
 
 [ECO "C40"]
-[Opening "Latvian gambit, 3.Bc4"]
+[Opening "Latvian"]
+[Variation "3.Bc4"]
 
 1. e4 e5 2. Nf3 f5 3. Bc4 *
 
