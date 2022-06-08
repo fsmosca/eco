@@ -1424,22 +1424,24 @@ Qxd4 d6 9. Rd1 a6 10. b3 Nbd7 *
 1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. e4 *
 
 [ECO "A56"]
-[Opening "Benoni defence"]
+[Opening "Benoni"]
 
 1. d4 Nf6 2. c4 c5 *
 
 [ECO "A56"]
-[Opening "Benoni defence, Hromodka system"]
+[Opening "Benoni"]
+[Variation "Hromodka system"]
 
 1. d4 Nf6 2. c4 c5 3. d5 d6 *
 
 [ECO "A56"]
-[Opening "Vulture defence"]
+[Opening "Benoni"]
+[Variation "Vulture"]
 
 1. d4 Nf6 2. c4 c5 3. d5 Ne4 *
 
 [ECO "A56"]
-[Opening "Czech Benoni defence"]
+[Opening "Czech Benoni"]
 
 1. d4 Nf6 2. c4 c5 3. d5 e5 *
 
@@ -1455,7 +1457,8 @@ Qxd4 d6 9. Rd1 a6 10. b3 Nbd7 *
 1. d4 Nf6 2. c4 c5 3. d5 b5 *
 
 [ECO "A57"]
-[Opening "Benko gambit half accepted"]
+[Opening "Benko gambit"]
+[Variation "Gambit half accepted"]
 
 1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 *
 
@@ -1473,7 +1476,8 @@ Qxd4 d6 9. Rd1 a6 10. b3 Nbd7 *
 Bc4 *
 
 [ECO "A58"]
-[Opening "Benko gambit accepted"]
+[Opening "Benko gambit"]
+[Variation "accepted"]
 
 1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 *
 
@@ -1518,12 +1522,12 @@ Kxf1 g6 9. g3 *
 Kxf1 g6 9. g3 Bg7 10. Kg2 O-O 11. Nf3 *
 
 [ECO "A60"]
-[Opening "Benoni defence"]
+[Opening "Benoni"]
 
 1. d4 Nf6 2. c4 c5 3. d5 e6 *
 
 [ECO "A61"]
-[Opening "Benoni defence"]
+[Opening "Benoni"]
 
 1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 *
 
