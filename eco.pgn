@@ -1077,7 +1077,8 @@ Qxd4 d6 9. Rd1 a6 10. b3 Nbd7 *
 1. d4 b6 *
 
 [ECO "A40"]
-[Opening "Polish defence"]
+[Opening "Queen's pawn game"]
+[Variation "Polish defence"]
 
 1. d4 b5 *
 
@@ -1276,7 +1277,8 @@ Qxd4 d6 9. Rd1 a6 10. b3 Nbd7 *
 1. d4 Nf6 2. Nf3 e6 3. e3 *
 
 [ECO "A46"]
-[Opening "Doery defence"]
+[Opening "Queen's pawn game"]
+[Variation "Doery defence"]
 
 1. d4 Nf6 2. Nf3 Ne4 *
 
@@ -1989,7 +1991,7 @@ Qc2 *
 b3 *
 
 [ECO "B00"]
-[Opening "King's pawn opening"]
+[Opening "King's pawn game"]
 
 1. e4 *
 
@@ -1999,6 +2001,7 @@ b3 *
 1. e4 Nh6 2. d4 g6 3. c4 f6 *
 
 [ECO "B00"]
+[Opening "King's pawn game"]
 [Opening "Corn stalk defence"]
 
 1. e4 a5 *
@@ -2049,49 +2052,49 @@ b3 *
 1. e4 b6 2. d4 Ba6 *
 
 [ECO "B00"]
-[Opening "KP"]
+[Opening "King's pawn game"]
 [Variation "Nimzovich"]
 
 1. e4 Nc6 *
 
 [ECO "B00"]
-[Opening "KP"]
+[Opening "King's pawn game"]
 [Variation "Nimzovich defence, Wheeler gambit"]
 
 1. e4 Nc6 2. b4 Nxb4 3. c3 Nc6 4. d4 *
 
 [ECO "B00"]
-[Opening "KP"]
+[Opening "King's pawn game"]
 [Variation "Nimzovich defence"]
 
 1. e4 Nc6 2. Nf3 *
 
 [ECO "B00"]
-[Opening "KP"]
+[Opening "King's pawn game"]
 [Variation "Colorado counter"]
 
 1. e4 Nc6 2. Nf3 f5 *
 
 [ECO "B00"]
-[Opening "KP"]
+[Opening "King's pawn game"]
 [Variation "Nimzovich defence"]
 
 1. e4 Nc6 2. d4 *
 
 [ECO "B00"]
-[Opening "KP"]
+[Opening "King's pawn game"]
 [Variation "Nimzovich defence, Marshall gambit"]
 
 1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nc3 *
 
 [ECO "B00"]
-[Opening "KP"]
+[Opening "King's pawn game"]
 [Variation "Nimzovich defence, Bogolyubov variation"]
 
 1. e4 Nc6 2. d4 d5 3. Nc3 *
 
 [ECO "B00"]
-[Opening "KP"]
+[Opening "King's pawn game"]
 [Variation "Neo-Mongoloid defence"]
 
 1. e4 Nc6 2. d4 f6 *
@@ -4801,37 +4804,37 @@ Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 *
 1. e4 e5 *
 
 [ECO "C20"]
-[Opening "KP"]
+[Opening "King's pawn game"]
 [Variation "Indian opening"]
 
 1. e4 e5 2. d3 *
 
 [ECO "C20"]
-[Opening "KP"]
+[Opening "King's pawn game"]
 [Variation "Mengarini's opening"]
 
 1. e4 e5 2. a3 *
 
 [ECO "C20"]
-[Opening "KP"]
+[Opening "King's pawn game"]
 [Variation "King's head opening"]
 
 1. e4 e5 2. f3 *
 
 [ECO "C20"]
-[Opening "KP"]
+[Opening "King's pawn game"]
 [Variation "Patzer opening"]
 
 1. e4 e5 2. Qh5 *
 
 [ECO "C20"]
-[Opening "KP"]
+[Opening "King's pawn game"]
 [Variation "Napoleon's opening"]
 
 1. e4 e5 2. Qf3 *
 
 [ECO "C20"]
-[Opening "KP"]
+[Opening "King's pawn game"]
 [Variation "Lopez opening"]
 
 1. e4 e5 2. c3 *
