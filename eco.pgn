@@ -11173,17 +11173,20 @@ Nbd2 b6 9. b3 a5 10. Bb2 Ba6 *
 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ *
 
 [ECO "E11"]
-[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[Opening "Bogo-Indian defence"]
+[Variation "Gruenfeld"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 *
 
 [ECO "E11"]
-[Opening "Bogo-Indian defence, Nimzovich variation"]
+[Opening "Bogo-Indian defence"]
+[Variation "Nimzovich"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 *
 
 [ECO "E11"]
-[Opening "Bogo-Indian defence, Monticelli trap"]
+[Opening "Bogo-Indian defence"]
+[Variation "Monticelli trap"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 b6 6. g3 Bb7 7. Bg2 O-O
 8. Nc3 Ne4 9. Qc2 Nxc3 10. Ng5 *
