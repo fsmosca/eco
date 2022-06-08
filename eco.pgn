@@ -1692,47 +1692,54 @@ Be2 O-O 9. O-O Re8 10. Nd2 Na6 11. f3 *
 1. d4 f5 *
 
 [ECO "A80"]
-[Opening "Dutch, Spielmann gambit"]
+[Opening "Dutch"]
+[Variation "Spielmann gambit"]
 
 1. d4 f5 2. Nc3 Nf6 3. g4 *
 
 [ECO "A80"]
-[Opening "Dutch, Manhattan (Alapin, Ulvestad) variation"]
+[Opening "Dutch"]
+[Variation "Manhattan (Alapin, Ulvestad)"]
 
 1. d4 f5 2. Qd3 *
 
 [ECO "A80"]
-[Opening "Dutch, Von Pretzel gambit"]
+[Opening "Dutch"]
+[Variation "Von Pretzel gambit"]
 
 1. d4 f5 2. Qd3 e6 3. g4 *
 
 [ECO "A80"]
-[Opening "Dutch, Korchnoi attack"]
+[Opening "Dutch"]
+[Variation "Korchnoi attack"]
 
 1. d4 f5 2. h3 *
 
 [ECO "A80"]
-[Opening "Dutch, Krejcik gambit"]
+[Opening "Dutch"]
+[Variation "Krejcik gambit"]
 
 1. d4 f5 2. g4 *
 
 [ECO "A80"]
-[Opening "Dutch, 2.Bg5 variation"]
+[Opening "Dutch"]
+[Variation "2.Bg5"]
 
 1. d4 f5 2. Bg5 *
 
 [ECO "A81"]
-[Opening "Dutch defence"]
+[Opening "Dutch"]
 
 1. d4 f5 2. g3 *
 
 [ECO "A81"]
-[Opening "Dutch defence, Blackburne variation"]
+[Opening "Dutch"]
+[Variation "Blackburne"]
 
 1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nh3 *
 
 [ECO "A81"]
-[Opening "Dutch defence"]
+[Opening "Dutch"]
 
 1. d4 f5 2. g3 Nf6 3. Bg2 g6 *
 
@@ -1803,23 +1810,24 @@ Be2 O-O 9. O-O Re8 10. Nd2 Na6 11. f3 *
 1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 b6 *
 
 [ECO "A84"]
-[Opening "Dutch defence"]
+[Opening "Dutch"]
 
 1. d4 f5 2. c4 *
 
 [ECO "A84"]
-[Opening "Dutch defence"]
+[Opening "Dutch"]
 [Variation "Bladel variation"]
 
 1. d4 f5 2. c4 g6 3. Nc3 Nh6 *
 
 [ECO "A84"]
-[Opening "Dutch defence"]
+[Opening "Dutch"]
 
 1. d4 f5 2. c4 e6 *
 
 [ECO "A84"]
-[Opening "Dutch defence, Rubinstein variation"]
+[Opening "Dutch"]
+[Variation "Rubinstein"]
 
 1. d4 f5 2. c4 e6 3. Nc3 *
 
@@ -1830,7 +1838,7 @@ Be2 O-O 9. O-O Re8 10. Nd2 Na6 11. f3 *
 1. d4 f5 2. c4 e6 3. e4 *
 
 [ECO "A84"]
-[Opening "Dutch defence"]
+[Opening "Dutch"]
 
 1. d4 f5 2. c4 Nf6 *
 
@@ -1840,7 +1848,8 @@ Be2 O-O 9. O-O Re8 10. Nd2 Na6 11. f3 *
 1. d4 f5 2. c4 Nf6 3. Nc3 *
 
 [ECO "A86"]
-[Opening "Dutch with c4 & g3"]
+[Opening "Dutch"]
+[Variation "2. c4 Nf6 3. g3"]
 
 1. d4 f5 2. c4 Nf6 3. g3 *
 
@@ -1875,12 +1884,12 @@ Be2 O-O 9. O-O Re8 10. Nd2 Na6 11. f3 *
 1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O d6 7. Nc3 Nc6 *
 
 [ECO "A90"]
-[Opening "Dutch defence"]
+[Opening "Dutch"]
 
 1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 *
 
 [ECO "A90"]
-[Opening "Dutch defence"]
+[Opening "Dutch"]
 [Variation "Dutch-Indian (Nimzo-Dutch) variation"]
 
 1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Bb4+ *
@@ -1891,17 +1900,18 @@ Be2 O-O 9. O-O Re8 10. Nd2 Na6 11. f3 *
 1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Bb4+ 5. Bd2 Be7 *
 
 [ECO "A91"]
-[Opening "Dutch defence"]
+[Opening "Dutch"]
 
 1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 *
 
 [ECO "A92"]
-[Opening "Dutch defence"]
+[Opening "Dutch"]
 
 1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O *
 
 [ECO "A92"]
-[Opening "Dutch defence, Alekhine variation"]
+[Opening "Dutch"]
+[Variation "Alekhine"]
 
 1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O Ne4 *
 
@@ -1982,7 +1992,7 @@ b3 *
 1. e4 *
 
 [ECO "B00"]
-[Opening "Hippopotamus defence"]
+[Opening "Hippopotamus"]
 
 1. e4 Nh6 2. d4 g6 3. c4 f6 *
 
@@ -2038,7 +2048,7 @@ b3 *
 
 [ECO "B00"]
 [Opening "KP"]
-[Variation "Nimzovich defence"]
+[Variation "Nimzovich"]
 
 1. e4 Nc6 *
 
@@ -2676,12 +2686,14 @@ Nc3 e6 9. Nf3 Qd7 10. Be2 O-O-O 11. O-O Be7 *
 1. e4 c6 2. d4 *
 
 [ECO "B12"]
-[Opening "de Bruycker defence"]
+[Opening "Caro-Kann"]
+[Variation "de Bruycker"]
 
 1. e4 c6 2. d4 Na6 3. Nc3 Nc7 *
 
 [ECO "B12"]
-[Opening "Caro-Masi defence"]
+[Opening "Caro-Kann"]
+[Variation "Caro-Masi"]
 
 1. e4 c6 2. d4 Nf6 *
 
@@ -5036,7 +5048,7 @@ Nxe5 8. Ne2 *
 1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 d5 5. exd5 Bb4+ 6. c3 Qe7+ *
 
 [ECO "C25"]
-[Opening "Vienna game"]
+[Opening "Vienna"]
 
 1. e4 e5 2. Nc3 *
 
@@ -5047,7 +5059,8 @@ Nxe5 8. Ne2 *
 1. e4 e5 2. Nc3 Bb4 3. Qg4 Nf6 *
 
 [ECO "C25"]
-[Opening "Vienna game, Max Lange defence"]
+[Opening "Vienna"]
+[Variation "Max Lange"]
 
 1. e4 e5 2. Nc3 Nc6 *
 
@@ -5148,12 +5161,12 @@ exd5 Bg4 9. dxc6 *
 1. e4 e5 2. Nc3 Nf6 3. g3 *
 
 [ECO "C26"]
-[Opening "Vienna game"]
+[Opening "Vienna"]
 
 1. e4 e5 2. Nc3 Nf6 3. Bc4 *
 
 [ECO "C27"]
-[Opening "Vienna game"]
+[Opening "Vienna"]
 
 1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 *
 
@@ -5171,7 +5184,7 @@ exd5 Bg4 9. dxc6 *
 1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Qh5 Nd6 5. Bb3 Nc6 6. d4 *
 
 [ECO "C27"]
-[Opening "Vienna game"]
+[Opening "Vienna"]
 
 1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Qh5 Nd6 5. Bb3 Be7 *
 
@@ -5193,7 +5206,7 @@ exd5 Bg4 9. dxc6 *
 1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Nf3 d5 *
 
 [ECO "C28"]
-[Opening "Vienna game"]
+[Opening "Vienna"]
 
 1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 *
 
