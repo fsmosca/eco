@@ -11768,12 +11768,12 @@ a3 Bxc3 9. bxc3 *
 a3 Bxc3 9. bxc3 dxc4 10. Bxc4 *
 
 [ECO "E60"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 
 1. d4 Nf6 2. c4 g6 *
 
 [ECO "E60"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "3.Nf3"]
 
 1. d4 Nf6 2. c4 g6 3. Nf3 *
@@ -11785,154 +11785,154 @@ a3 Bxc3 9. bxc3 dxc4 10. Bxc4 *
 1. d4 Nf6 2. c4 g6 3. Qc2 *
 
 [ECO "E60"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Anti-Gruenfeld"]
 
 1. d4 Nf6 2. c4 g6 3. d5 *
 
 [ECO "E60"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Danube gambit"]
 
 1. d4 Nf6 2. c4 g6 3. d5 b5 *
 
 [ECO "E60"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "3.g3"]
 
 1. d4 Nf6 2. c4 g6 3. g3 *
 
 [ECO "E60"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "3.g3, counterthrust variation"]
 
 1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 *
 
 [ECO "E61"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "3.Nc3"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 *
 
 [ECO "E61"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Smyslov system"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. Bg5 *
 
 [ECO "E62"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "fianchetto variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 *
 
 [ECO "E62"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "fianchetto, Larsen system"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 c6 7. O-O Bf5 *
 
 [ECO "E62"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "fianchetto, Kavalek (Bronstein) variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 c6 7. O-O Qa5 *
 
 [ECO "E62"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "fianchetto with ...Nc6"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nc6 *
 
 [ECO "E62"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "fianchetto, Uhlmann (Szabo) variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nc6 7. O-O e5 *
 
 [ECO "E62"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "fianchetto, lesser Simagin (Spassky) variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nc6 7. O-O Bf5 *
 
 [ECO "E62"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "fianchetto, Simagin variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nc6 7. O-O Bg4 *
 
 [ECO "E63"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "fianchetto, Panno variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nc6 7. O-O a6 *
 
 [ECO "E64"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "fianchetto, Yugoslav system"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 c5 *
 
 [ECO "E65"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "fianchetto, Yugoslav, 7.O-O"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 c5 7. O-O *
 
 [ECO "E66"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "fianchetto, Yugoslav Panno"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 c5 7. O-O Nc6 8. 
 d5 *
 
 [ECO "E67"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "fianchetto with ...Nd7"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nbd7 *
 
 [ECO "E67"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "fianchetto, classical variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nbd7 7. O-O e5 *
 
 [ECO "E68"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "fianchetto, classical variation, 8.e4"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nbd7 7. O-O e5 8.
 e4 *
 
 [ECO "E69"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "fianchetto, classical main line"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nbd7 7. O-O e5 8.
 e4 c6 9. h3 *
 
 [ECO "E70"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "4.e4"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 *
 
 [ECO "E70"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Kramer system"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nge2 *
 
 [ECO "E70"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "accelerated Averbakh system"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 *
 
 [ECO "E71"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Makagonov system (5.h3)"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 *
@@ -11943,19 +11943,19 @@ e4 c6 9. h3 *
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. g3 *
 
 [ECO "E72"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Pomar system"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. g3 O-O 6. Bg2 e5 7. Nge2 *
 
 [ECO "E73"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "5.Be2"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 *
 
 [ECO "E73"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Semi-Averbakh system"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Be3 *
@@ -11967,290 +11967,290 @@ e4 c6 9. h3 *
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 *
 
 [ECO "E74"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Averbakh, 6...c5"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 *
 
 [ECO "E75"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Averbakh, main line"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 e6 *
 
 [ECO "E76"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Four pawns attack"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 *
 
 [ECO "E76"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Four pawns attack, dynamic line"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 *
 
 [ECO "E77"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Four pawns attack, 6.Be2"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Be2 *
 
 [ECO "E77"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Six pawns attack"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Be2 c5 7. d5 e6 8. dxe6
 fxe6 9. g4 Nc6 10. h4 *
 
 [ECO "E77"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Four pawns attack"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Be2 c5 7. d5 e6 8. Nf3
 *
 
 [ECO "E77"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Four pawns attack, Florentine gambit"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Be2 c5 7. d5 e6 8. Nf3
 exd5 9. e5 *
 
 [ECO "E78"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Four pawns attack, with Be2 and Nf3"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Be2 c5 7. Nf3 *
 
 [ECO "E79"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Four pawns attack, main line"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Be2 c5 7. Nf3 cxd4 8. 
 Nxd4 Nc6 9. Be3 *
 
 [ECO "E80"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Saemisch variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 *
 
 [ECO "E81"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Saemisch, 5...O-O"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O *
 
 [ECO "E81"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Saemisch, Byrne variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c6 7. Bd3 a6 *
 
 [ECO "E82"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Saemisch, double fianchetto variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 b6 *
 
 [ECO "E83"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Saemisch, 6...Nc6"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 *
 
 [ECO "E83"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Saemisch, Ruban variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Nge2 Rb8 *
 
 [ECO "E83"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Saemisch, Panno formation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Nge2 a6 *
 
 [ECO "E84"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Saemisch, Panno main line"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Nge2 a6 8. 
 Qd2 Rb8 *
 
 [ECO "E85"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Saemisch, orthodox variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 *
 
 [ECO "E86"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Saemisch, orthodox, 7.Nge2 c6"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 c6 *
 
 [ECO "E87"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Saemisch, orthodox, 7.d5"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 *
 
 [ECO "E87"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Saemisch, orthodox, Bronstein variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2
 Qh4+ 9. g3 Nxg3 10. Qf2 Nxf1 11. Qxh4 Nxe3 12. Ke2 Nxc4 *
 
 [ECO "E88"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Saemisch, orthodox, 7.d5 c6"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 *
 
 [ECO "E89"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Saemisch, orthodox main line"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Nge2
 cxd5 *
 
 [ECO "E90"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "5.Nf3"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 *
 
 [ECO "E90"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Larsen variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be3 *
 
 [ECO "E90"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Zinnowitz variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Bg5 *
 
 [ECO "E91"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "6.Be2"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 *
 
 [ECO "E91"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Kazakh variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Na6 *
 
 [ECO "E92"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "classical variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 *
 
 [ECO "E92"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Andersson variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. dxe5 *
 
 [ECO "E92"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Gligoric-Taimanov system"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 *
 
 [ECO "E92"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Petrosian system"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 *
 
 [ECO "E92"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Petrosian system, Stein variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 a5 *
 
 [ECO "E93"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Petrosian system, main line"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 Nbd7 *
 
 [ECO "E93"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "Petrosian system, Keres variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 Nbd7 8. 
 Bg5 h6 9. Bh4 g5 10. Bg3 Nh5 11. h4 *
 
 [ECO "E94"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "orthodox variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O *
 
 [ECO "E94"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "orthodox, Donner variation"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O c6 *
 
 [ECO "E94"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "orthodox, 7...Nbd7"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 *
 
 [ECO "E95"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "orthodox, 7...Nbd7, 8.Re1"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8.
 Re1 *
 
 [ECO "E96"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "orthodox, 7...Nbd7, main line"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8.
 Re1 c6 9. Bf1 a5 *
 
 [ECO "E97"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 *
 
 [ECO "E97"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "orthodox, Aronin-Taimanov, bayonet attack"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. 
 d5 Ne7 9. b4 *
 
 [ECO "E98"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "orthodox, Aronin-Taimanov, 9.Ne1"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. 
 d5 Ne7 9. Ne1 *
 
 [ECO "E99"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "orthodox, Aronin-Taimanov, main line"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. 
 d5 Ne7 9. Ne1 Nd7 10. f3 f5 *
 
 [ECO "E99"]
-[Opening "King's Indian"]
+[Opening "King's Indian Defence"]
 [Variation "orthodox, Aronin-Taimanov, Benko attack"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. 
