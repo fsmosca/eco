@@ -2001,8 +2001,7 @@ b3 *
 1. e4 Nh6 2. d4 g6 3. c4 f6 *
 
 [ECO "B00"]
-[Opening "King's pawn game"]
-[Variation "Corn stalk defence"]
+[Opening "Corn stalk defence"]
 
 1. e4 a5 *
 
@@ -2012,7 +2011,7 @@ b3 *
 1. e4 Na6 *
 
 [ECO "B00"]
-[Opening "Fred"]
+[Opening "Duras Gambit"]
 
 1. e4 f5 *
 
