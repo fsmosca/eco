@@ -299,6 +299,7 @@ David J. Barnes (d.j.barnes@kent.ac.uk)
 
 [ECO "A04"]
 [Opening "Zukertort"]
+[Variation "Tartakower"]
 
 1. Nf3 f5 *
 
@@ -333,6 +334,7 @@ David J. Barnes (d.j.barnes@kent.ac.uk)
 
 [ECO "A05"]
 [Opening "Zukertort"]
+[Variation "Burn"]
 
 1. Nf3 Nf6 *
 
@@ -356,6 +358,7 @@ David J. Barnes (d.j.barnes@kent.ac.uk)
 
 [ECO "A06"]
 [Opening "Zukertort"]
+[Variation "Winawer"]
 
 1. Nf3 d5 *
 
