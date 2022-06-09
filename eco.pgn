@@ -2002,7 +2002,7 @@ b3 *
 
 [ECO "B00"]
 [Opening "King's pawn game"]
-[Opening "Corn stalk defence"]
+[Variation "Corn stalk defence"]
 
 1. e4 a5 *
 
@@ -2052,50 +2052,49 @@ b3 *
 1. e4 b6 2. d4 Ba6 *
 
 [ECO "B00"]
-[Opening "King's pawn game"]
-[Variation "Nimzovich"]
+[Opening "Nimzovich"]
 
 1. e4 Nc6 *
 
 [ECO "B00"]
-[Opening "King's pawn game"]
-[Variation "Nimzovich defence, Wheeler gambit"]
+[Opening "Nimzovich"]
+[Variation "Wheeler gambit"]
 
 1. e4 Nc6 2. b4 Nxb4 3. c3 Nc6 4. d4 *
 
 [ECO "B00"]
-[Opening "King's pawn game"]
-[Variation "Nimzovich defence"]
+[Opening "Nimzovich"]
+[Variation "2. Nf3"]
 
 1. e4 Nc6 2. Nf3 *
 
 [ECO "B00"]
-[Opening "King's pawn game"]
+[Opening "Nimzovich"]
 [Variation "Colorado counter"]
 
 1. e4 Nc6 2. Nf3 f5 *
 
 [ECO "B00"]
-[Opening "King's pawn game"]
-[Variation "Nimzovich defence"]
+[Opening "Nimzovich"]
+[Variation "2. d4"]
 
 1. e4 Nc6 2. d4 *
 
 [ECO "B00"]
-[Opening "King's pawn game"]
-[Variation "Nimzovich defence, Marshall gambit"]
+[Opening "Nimzovich"]
+[Variation "Marshall gambit"]
 
 1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nc3 *
 
 [ECO "B00"]
-[Opening "King's pawn game"]
-[Variation "Nimzovich defence, Bogolyubov variation"]
+[Opening "Nimzovich"]
+[Variation "Bogolyubov variation"]
 
 1. e4 Nc6 2. d4 d5 3. Nc3 *
 
 [ECO "B00"]
-[Opening "King's pawn game"]
-[Variation "Neo-Mongoloid defence"]
+[Opening "Nimzovich"]
+[Variation "Neo-Mongoloid"]
 
 1. e4 Nc6 2. d4 f6 *
 
