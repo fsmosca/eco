@@ -1254,9 +1254,21 @@ Qxd4 d6 9. Rd1 a6 10. b3 Nbd7 *
 1. d4 Nf6 2. f3 d5 3. g4 *
 
 [ECO "A45"]
-[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[Opening "Levenfish/Trompowsky/Ruth"]
 
 1. d4 Nf6 2. Bg5 *
+
+[ECO "A45"]
+[Opening "Levenfish/Trompowsky/Ruth"]
+[Variation "Boleslavsky"]
+
+1. d4 Nf6 2. Bg5 Ne4 *
+
+[ECO "A45"]
+[Opening "Levenfish/Trompowsky/Ruth"]
+[Variation "Rabinovich"]
+
+1. d4 Nf6 2. Bg5 b6 *
 
 [ECO "A46"]
 [Opening "Queen's pawn game"]
