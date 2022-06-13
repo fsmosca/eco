@@ -10919,18 +10919,25 @@ d5 *
 
 [ECO "D92"]
 [Opening "Gruenfeld"]
-[Variation "5.Bf4"]
+[Variation "Capablanca"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 *
 
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "Botvinnik"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O *
+
 [ECO "D93"]
-[Opening "Gruenfeld with Bf4    e3"]
+[Opening "Gruenfeld"]
+[Variation "Capablanca"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. e3 *
 
 [ECO "D94"]
 [Opening "Gruenfeld"]
-[Variation "5.e3"]
+[Variation "Rubinstein"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 *
 
@@ -10947,7 +10954,8 @@ d5 *
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd2 *
 
 [ECO "D94"]
-[Opening "Gruenfeld with e3    Bd3"]
+[Opening "Gruenfeld"]
+[Variation "Flohr"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd3 *
 
@@ -10964,19 +10972,20 @@ d5 *
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd3 c6 7. O-O Bf5 *
 
 [ECO "D95"]
-[Opening "Gruenfeld with e3 & Qb3"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Qb3 *
 
 [ECO "D95"]
 [Opening "Gruenfeld"]
-[Variation "Botvinnik variation"]
+[Variation "Botvinnik"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Qb3 e6 *
 
 [ECO "D95"]
 [Opening "Gruenfeld"]
-[Variation "Pachman variation"]
+[Variation "Pachman"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Qb3 dxc4 7. Bxc4 Nbd7
 8. Ng5 *
