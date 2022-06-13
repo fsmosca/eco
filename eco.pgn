@@ -1907,27 +1907,31 @@ Be2 O-O 9. O-O Re8 10. Nd2 Na6 11. f3 *
 
 [ECO "A90"]
 [Opening "Dutch"]
+[Variation "Alekhine"]
 
 1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 *
 
 [ECO "A90"]
 [Opening "Dutch"]
-[Variation "Dutch-Indian (Nimzo-Dutch) variation"]
+[Variation "Tartakower"]
 
 1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Bb4+ *
 
 [ECO "A90"]
-[Opening "Dutch-Indian, Alekhine variation"]
+[Opening "Dutch"]
+[Variation "Spielmann"]
 
 1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Bb4+ 5. Bd2 Be7 *
 
 [ECO "A91"]
 [Opening "Dutch"]
+[Variation "Botvinnik"]
 
 1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 *
 
 [ECO "A92"]
 [Opening "Dutch"]
+[Variation "Alekhine"]
 
 1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O *
 
