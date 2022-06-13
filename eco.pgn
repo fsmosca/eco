@@ -33,7 +33,8 @@ David J. Barnes (d.j.barnes@kent.ac.uk)
 1. g3 *
 
 [ECO "A00"]
-[Opening "Lasker simul special"]
+[Opening "Benko's opening"]
+[Variation "Lasker simul special"]
 
 1. g3 h5 *
 
