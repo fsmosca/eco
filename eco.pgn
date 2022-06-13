@@ -9059,17 +9059,20 @@ c3 d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 *
 1. d4 d5 *
 
 [ECO "D00"]
-[Opening "Queen's pawn, Mason variation"]
+[Opening "Queen's pawn game"]
+[Variation "Blackburne"]
 
 1. d4 d5 2. Bf4 *
 
 [ECO "D00"]
-[Opening "Queen's pawn, Mason variation, Steinitz counter-gambit"]
+[Opening "Queen's pawn game"]
+[Variation "Steinitz"]
 
 1. d4 d5 2. Bf4 c5 *
 
 [ECO "D00"]
-[Opening "Levitsky attack (Queen's bishop attack)"]
+[Opening "Queen's pawn game"]
+[Variation "Kan"]
 
 1. d4 d5 2. Bg5 *
 
