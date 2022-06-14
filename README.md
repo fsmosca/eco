@@ -3,6 +3,10 @@ Encyclopedia of Chess Opening
 
 Create an eco.pgn based from the eco.pgn from [pgn-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/).
 
+## Revisions
+* Add Variation value to missing Variation tag using the player names from oldest recorded games. 
+* Modify opening names.
+
 ## References
 * [eco.pgn from pgn-exract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/)  
 * [Wiki List of chess openings](https://en.wikipedia.org/wiki/List_of_chess_openings)  
