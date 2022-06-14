@@ -6916,6 +6916,7 @@ Kd8 8. O-O Bxd2 9. Nxd2 Qg6 *
 
 [ECO "C46"]
 [Opening "Four knights"]
+[Variation "Walker-De Saint Amant"]
 
 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 *
 
@@ -7063,6 +7064,7 @@ O-O 8. d3 d6 9. Na4 Bb6 *
 
 [ECO "C49"]
 [Opening "Four knights"]
+[Variation "Schwarz-Englisch"]
 
 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 Bxc3 *
 
