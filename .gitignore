@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 tool.py
+oldgames.csv
+games_y1100-y1950.pgn
