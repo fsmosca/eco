@@ -10325,6 +10325,7 @@ Qa4 *
 
 [ECO "D51"]
 [Opening "Queen's Gambit Declined"]
+[Variation "Janowski-Marco"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 *
 
@@ -10348,6 +10349,7 @@ Qa4 *
 
 [ECO "D52"]
 [Opening "Queen's Gambit Declined"]
+[Variation "Hodges-Lasker"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nf3 *
 
