@@ -3465,7 +3465,8 @@ Na3 d5 *
 1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 *
 
 [ECO "B53"]
-[Opening "Sicilian, Chekhover variation"]
+[Opening "Sicilian"]
+[Variation "Uulberg/Quigley/Chekhover"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 *
 
